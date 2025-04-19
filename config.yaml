@@ -4,7 +4,7 @@ config:
   # Set your COM port e.g. COM3 for Windows, /dev/ttyACM0 for Linux...
   # COM_PORT: "/dev/ttyACM0"
   # COM_PORT: "COM3"
-  COM_PORT: "AUTO"
+  COM_PORT: "COM3"
 
   # Theme to use (located in res/themes)
   # THEME: Terminal_theme
